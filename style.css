@@ -1,0 +1,22 @@
+body
+{
+background-color: lightpink;
+color:white;
+}
+.heading
+{
+    width:100%;
+    font-size:35px;
+    color: black;
+}
+#camera
+{
+    height:300px;
+    width:350px;
+    border:2px dashed black;
+}
+.name_of_the_objects{
+ color:yellow;
+ background-color: lightskyblue;
+ font-size: 30px;
+}
